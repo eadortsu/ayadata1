@@ -2976,10 +2976,10 @@ a.video-play-icon-without-bip:hover{
     .single-promo-block.hover-image:hover:before, .single-promo-block.hover-image:hover:after {
         top: 0;
     }
-    .single-promo-block.hover-image:hover .promo-block-content h5, .single-promo-block.hover-image:hover .promo-block-icon span{
+    .single-promo-block.hover-image:hover .promo-block-content h5, .single-promo-block.hover-image:hover .promo-block-icon span, .promo-block-content:hover h5{
         color: #ffffff;
     }
-    .single-promo-block.hover-image:hover .promo-block-content p{
+    .single-promo-block.hover-image:hover .promo-block-content p,.promo-block-content:hover p {
         color: rgba(255,255,255,0.75);
     }
 }

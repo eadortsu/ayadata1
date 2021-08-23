@@ -334,7 +334,7 @@ jQuery(function ($) {
   // 10. our clients logo carousel
   $('.clients-carousel').owlCarousel({
     autoplay: true,
-    loop: true,
+    loop: false,
     margin: 15,
     dots: false,
     slideTransition: 'linear',
